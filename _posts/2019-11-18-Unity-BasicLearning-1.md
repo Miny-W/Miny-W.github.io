@@ -18,39 +18,39 @@ Hub是官方推出的管理程序，它可以有条理地在你的电脑上部�
 
 打开Hub后，你将会看到如下画面：
 
-![](2019-11-18-Unity-BasicLearning-1.assets/1.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/1.png)
 
 选择左侧安装；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/2.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/2.png)
 
 再点击右上角安装按钮；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/3.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/3.png)
 
 选择一个版本（我选的是2019.2.12f1），点击下一步；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/4.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/4.png)
 
 如果你是一个游戏制作者，或者是一个工程师（猿），勾选开发工具（VS 2019，也可自行去官网下载），以及下边的发布环境（按需选择），点击完成；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/5.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/5.png)
 
 待漫长的安装时间结束后，你的安装列表里就会多出来一个带有版本号的图标（我的有很多）
 
-![](2019-11-18-Unity-BasicLearning-1.assets/6.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/6.png)
 
 现在，你可以愉快地创建第一个项目了~点击Hub左侧的项目选项；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/7.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/7.png)
 
 上图中显示了4个项目的名称，Unity版本，目标平台，最后修改时间，这些是我之前创建的测试项目，点击右上角蓝色的新建按钮（点击新建按钮右侧的箭头可以选择特定Unity版本），创建项目；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/8.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/8.png)
 
 图中5个选项分别为2D，3D，3D扩展（附加Post Process），高清渲染管线，轻量渲染管线；随着教程推进，后三种会逐步介绍，当前我们选择3D，并更改项目名称，项目存储位置路径；设置完毕后，点击右下角蓝色创建按钮；
 
-![](2019-11-18-Unity-BasicLearning-1.assets/9.png)
+![](https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-1.assets/9.png)
 
 待加载条读完后，恭喜~你的第一个Unity项目成功诞生了~
 
