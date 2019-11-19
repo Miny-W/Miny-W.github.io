@@ -20,7 +20,7 @@ webtitle: '米奈的技术博客'
 bio: '孤独の人はいつもお面をついている'
 about: true
 aboutyou: '就是个普通的底层程序员'
-portraits: '/assets/logo.jpeg' # your portraits image file path
+portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
