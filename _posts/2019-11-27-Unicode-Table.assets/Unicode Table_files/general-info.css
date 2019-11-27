@@ -1,0 +1,10 @@
+body { margin-top:4pt; }
+p { margin-top:4pt; }
+p.header { font-size:80%; margin-top:0pt; text-align:right; }
+p.footer { font-size:80%; margin-top:0pt; text-align:center; }
+table { empty-cells:show; border-collapse:collapse; }
+th { text-align:center; background-color:#F4FFE8; }
+td { text-align:center; }
+td.l { text-align:left; padding-left:8pt; padding-right:8pt; }
+td.ad { padding-left:20pt; }
+hr.hf { color:#CCFFCC; }
