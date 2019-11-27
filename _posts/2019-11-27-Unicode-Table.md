@@ -16,7 +16,7 @@ https://javawind.net/tools/native2ascii.jsp?action=transform
 
 ------
 
-同时也附上Unicode Table：
+同时也附上Unicode Table（完整版，有点长）：
 
-https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-27-Unicode-Table.assets/Unicode%20Table_files/unicode.html
+http://www.tamasoft.co.jp/en/general-info/unicode.html
 
