@@ -12,11 +12,11 @@ author: Miny
 
 ### 附上中文字符与Unicode字符转换链接：
 
-[]: https://javawind.net/tools/native2ascii.jsp?action=transform
+https://javawind.net/tools/native2ascii.jsp?action=transform
 
 ------
 
 同时也附上Unicode Table：
 
-[]: https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-27-Unicode-Table.assets/Unicode%20Table.html
+https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-27-Unicode-Table.assets/Unicode%20Table_files/unicode.html
 
