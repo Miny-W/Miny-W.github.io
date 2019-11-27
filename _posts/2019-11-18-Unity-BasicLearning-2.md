@@ -10,11 +10,13 @@ author: Miny
 
 [TOC]
 
+
+
 # Unity 界面布局
 
 好的~让我们继续上一篇的内容，创建的工程如……下面这张吧（别问为什么版本更新了，也别问为什么变黑了 XD）
 
-<img src="2019-11-18-Unity-BasicLearning-2.assets/image-20191127152547214.png" alt="image-20191127152547214" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-11-18-Unity-BasicLearning-2.assets/image-20191127152547214.png" alt="image-20191127152547214" style="zoom:80%;" />
 
 Unity的基本界面布局包括菜单栏、工具栏以及5个常用的视图窗口，分别为Hierarchy（层级）、Project（项目）、Inspector（检查器）、Scene（场景）和Game（游戏）视图（当然还有Console控制台，不过不常……常……不说了）
 
