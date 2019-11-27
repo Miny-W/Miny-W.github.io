@@ -81,7 +81,7 @@ social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
 baidu: true
-baidu-url: 'https://miny-w.github.io/'
+baidu-url: 'https://hm.baidu.com/hm.js?6daf2b69acf2907a9841aaeb9d335db3'
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false
 google-ID: ''
