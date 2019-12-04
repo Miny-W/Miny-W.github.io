@@ -1,7 +1,7 @@
 ---
 title: "Unity教程-组件篇-Light Probe Group"
 categories: unity
-tags: unity, component
+tags: unity component
 author: Miny
 ---
 
