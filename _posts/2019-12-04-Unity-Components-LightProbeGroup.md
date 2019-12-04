@@ -93,4 +93,5 @@ Light Probe的用法就是在Light Mapping的基础上加上了一些探针来�
 
 <img src="https://raw.githubusercontent.com/Miny-W/Miny-W.github.io/master/_posts/2019-12-04-Unity-Components-LightProbeGroup.assets/image-20191204130059064.png" alt="image-20191204130059064" style="zoom:50%;" />
 
-探针的摆放位置，也会营销到烘焙出来的光效，这个可以参照Unity官方案例，或者是大佬们的分析文。
+探针的摆放位置，也会影响到烘焙出来的光效，这个可以参照Unity官方案例，或者是大佬们的分析文。
+
