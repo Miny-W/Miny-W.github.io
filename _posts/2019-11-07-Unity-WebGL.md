@@ -18,13 +18,13 @@ author: Miny
 
 2. Unity自带的InputField无法在WebGL上输入中文，使用Unity推出的IME input for Unity WebGL(Assets Store,免费)。如果用到InputField，注意判断空值问题，尽量避免让用户输入很多文字。
 
-3. WebGL发布后，会出现一大段文字，有的部分显示不全。可以修改发布设置中的ColorSpace将Gamma修改为Linear或直接将文字替换成图片，注意修改成Linear会导致项目整体颜色变淡。（创建项目后，优先改成Linear）
+3. WebGL发布后，会出现段落部分文字不显示的问题。可以修改发布设置中的ColorSpace将Gamma修改为Linear或直接将文字替换成图片，注意：修改成Linear会导致项目整体颜色变淡。（创建项目后，优先改成Linear）
 
 4. 当文本中需要打空格是可以使用搜狗输入法敲入v1d
 
-5. WebGL不可以使用System.IO命名空间，DLLImport注释掉（会导致黑屏），尽量避免使用WWW加载
+5. WebGL不要使用System.IO.File，DLLImport注释掉（会导致黑屏），尽量避免使用WWW加载
 
-6. 当项目资源比较大或浏览器已经提示内存不足时，可修改发布设置的内存设置。（推荐256~512，太小报Out of Memory Size，太大浏览器崩溃）
+6. 当项目资源比较大或浏览器已经提示内存不足时，可修改发布设置的内存设置。（推荐256~512，太小报Out of Memory Size，太大浏览器崩溃，自2019版本已弃用该设置）
 
 7.  打包时设置的路径以及StreamingAssets文件夹中的资源不可以有中文
 
